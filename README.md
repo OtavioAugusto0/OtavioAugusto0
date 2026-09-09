@@ -1,16 +1,110 @@
-## Hi there 👋
+# Hi 👋, I'm Otávio Augusto
 
-<!--
-**OtavioAugusto0/OtavioAugusto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Engineering Student | Python, JavaScript & SQL
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about programming, technology and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects, learning new technologies and continuously improving my development skills.
+
+Currently focused on strengthening my knowledge in **Python, JavaScript, SQL, C# and software development**.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering student
+- 💻 Currently studying **Python, JavaScript, SQL and C#**
+- 🗄️ Experience with **SQLite, PostgreSQL and SQL Server**
+- 🐍 Building desktop and database applications with Python
+- 🌐 Learning JavaScript and software development concepts
+- 🔧 Interested in software development, databases and embedded systems
+- 🚀 Always looking for new challenges and opportunities to learn
+- 🎯 Currently looking for an **internship opportunity in technology**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,mssql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 Sistema de Estoque
+
+**Python + SQLite**
+
+A simple inventory management system developed to practice programming logic, databases and CRUD operations.
+
+**Features:**
+- ➕ Add products
+- 🔎 View products
+- ✏️ Update products
+- 🗑️ Remove products
+- 💾 SQLite database
+
+🔗 [View project](https://github.com/OtavioAugusto0/Sistema-de-Estoque)
+
+---
+
+### 🍔 Sistema de Restaurante
+
+**Python + CustomTkinter + SQLite**
+
+A desktop restaurant management system with a graphical interface and database integration.
+
+**Features:**
+- 🔐 Login and registration
+- 👤 User management
+- 📦 Inventory management
+- 🍔 Order management
+- 💰 Order calculation
+- 🗄️ SQLite database
+
+🔗 [View project](https://github.com/OtavioAugusto0/Sistema-de-Restaurante)
+
+---
+
+### 📝 Sistema de Notas
+
+**Python + SQLite**
+
+A student grade management system developed to practice database manipulation and mathematical calculations.
+
+**Features:**
+- 👨‍🎓 Student registration
+- 📝 Grade management
+- 🧮 Average calculation
+- 📊 Performance evaluation
+- 💾 SQLite database
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+██████████████████░░ 90%
+
+JavaScript
+██████████████░░░░░░ 70%
+
+SQL
+███████████████░░░░░ 75%
+
+C#
+██████████░░░░░░░░░░ 50%
