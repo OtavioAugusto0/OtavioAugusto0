@@ -1,94 +1,56 @@
 # Hi 👋, I'm Otávio Augusto
 
-### 🚀 Computer Engineering Student | Python, JavaScript & SQL
+### 🇧🇷 Brazilian | 🎓 Computer Engineering Student | 💻 Aspiring Software Developer
 
 I'm a Computer Engineering student passionate about programming, technology and problem solving.
 
-I enjoy building practical projects, learning new technologies and continuously improving my development skills.
+Currently focused on **Python, JavaScript, C/C++, SQL and software development**.
 
-Currently focused on strengthening my knowledge in **Python, JavaScript, SQL, C# and software development**.
+---
+
+## 🛠️ Technologies & Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,c,cpp" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🤖 Embedded Systems & Robotics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,fastapi" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering student
-- 💻 Currently studying **Python, JavaScript, SQL and C#**
-- 🗄️ Experience with **SQLite, PostgreSQL and SQL Server**
-- 🐍 Building desktop and database applications with Python
-- 🌐 Learning JavaScript and software development concepts
-- 🔧 Interested in software development, databases and embedded systems
-- 🚀 Always looking for new challenges and opportunities to learn
-- 🎯 Currently looking for an **internship opportunity in technology**
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cs" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
+- 💻 Interested in Software Development
+- 🐍 Building projects with Python and databases
+- ⚡ Learning JavaScript and C#
+- 🔌 Experience with Arduino and electronics
+- 🤖 Interested in Embedded Systems and Robotics
+- 🚀 Always learning and building new projects
+- 🎯 Currently looking for an internship opportunity in technology
 
 ---
 
 ## 🚀 Featured Projects
-
-### 📦 Sistema de Estoque
-
-**Python + SQLite**
-
-A simple inventory management system developed to practice programming logic, databases and CRUD operations.
-
-**Features:**
-- ➕ Add products
-- 🔎 View products
-- ✏️ Update products
-- 🗑️ Remove products
-- 💾 SQLite database
-
-🔗 [View project](https://github.com/OtavioAugusto0/Sistema-de-Estoque)
-
----
-
-### 🍔 Sistema de Restaurante
-
-**Python + CustomTkinter + SQLite**
-
-A desktop restaurant management system with a graphical interface and database integration.
-
-**Features:**
-- 🔐 Login and registration
-- 👤 User management
-- 📦 Inventory management
-- 🍔 Order management
-- 💰 Order calculation
-- 🗄️ SQLite database
-
-🔗 [View project](https://github.com/OtavioAugusto0/Sistema-de-Restaurante)
-
----
-
-### 📝 Sistema de Notas
-
-**Python + SQLite**
-
-A student grade management system developed to practice database manipulation and mathematical calculations.
-
-**Features:**
 - 👨‍🎓 Student registration
 - 📝 Grade management
 - 🧮 Average calculation
@@ -96,18 +58,3 @@ A student grade management system developed to practice database manipulation an
 - 💾 SQLite database
 
 ---
-
-## 📚 Currently Learning
-
-```text
-Python
-██████████████████░░ 90%
-
-JavaScript
-██████████████░░░░░░ 70%
-
-SQL
-███████████████░░░░░ 75%
-
-C#
-██████████░░░░░░░░░░ 50%
