@@ -34,11 +34,14 @@ Currently focused on strengthening my knowledge in **Python, JavaScript, SQL, C#
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,mssql" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
 </p>
 
 ### 🔧 Tools & Technologies
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 ---
 
