@@ -1,6 +1,6 @@
-# Hi 👋, I'm Otávio Augusto
+# Hi, I'm Otávio Camara!
 
-### 🇧🇷 Brazilian | 🎓 Computer Engineering Student | 💻 Aspiring Software Developer
+### 🇧🇷 Brazilian |  Computer Engineering Student |  Aspiring Software Developer
 
 I'm a Computer Engineering student passionate about programming, technology and problem solving.
 
@@ -8,28 +8,28 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 
 ---
 
-## 🛠️ Technologies & Skills
+##  Technologies & Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,cs,c,cpp" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### 🤖 Embedded Systems & Robotics
+###  Embedded Systems & Robotics
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-### 🔧 Tools
+###  Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,fastapi" />
@@ -37,7 +37,7 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 Computer Engineering student
 - 💻 Interested in Software Development
@@ -50,7 +50,7 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 - 👨‍🎓 Student registration
 - 📝 Grade management
 - 🧮 Average calculation
