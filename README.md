@@ -33,12 +33,14 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ###  Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,photoshop," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,photoshop" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
