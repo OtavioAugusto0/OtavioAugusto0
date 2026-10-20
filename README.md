@@ -1,4 +1,4 @@
-# Hi, I'm Otávio Camara!
+# Hi, I'm Otávio Augusto!
 
 ### 🇧🇷 Brazilian |  Computer Engineering Student |  Aspiring Software Developer
 
