@@ -13,7 +13,13 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 ###  Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cs,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,c,cpp,octave,matlab" />
+</p>
+
+###  Frameworks
+
+<p>
+  <img src = "https://skillicons.dev/icons?i=dotnet,nodejs"/>
 </p>
 
 ###  Databases
@@ -32,7 +38,7 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 ###  Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,fastapi" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,photoshop," />
 </p>
 
 ---
