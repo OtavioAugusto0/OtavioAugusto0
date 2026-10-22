@@ -45,6 +45,17 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 
 ---
 
+##  Most Used Languages
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAugusto0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
 ##  About Me
 
 - 🎓 Computer Engineering student
@@ -59,7 +70,7 @@ Currently focused on **Python, JavaScript, C/C++, SQL and software development**
 ---
 
 ##  Featured Projects
-- 👨‍🎓 Student registration
+- 👨‍🎓 Student registration                                
 - 📝 Grade management
 - 🧮 Average calculation
 - 📊 Performance evaluation
